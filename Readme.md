@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://marufmullah50.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?logo=githubpages&logoColor=white"/>
+</a>
 </p>
 
 ---
