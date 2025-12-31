@@ -22,8 +22,10 @@ Mechanical Engineering graduate focused on **machine learning–driven modeling,
 Fish Species Detection (MobileNetV2) · Surface Roughness Prediction (ML) · Wind Property Prediction (ANN, CatBoost) · Photo Background Editor (Streamlit)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&hide_border=true&height=170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph
+  ?username=marufmullah50
+  &height=260
+  &hide_border=false
+  &theme=github-light"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufmullah50&show_icons=true&theme=default"/>
-</p>
+
