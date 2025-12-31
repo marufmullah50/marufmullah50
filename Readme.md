@@ -24,3 +24,6 @@ Fish Species Detection (MobileNetV2) · Surface Roughness Prediction (ML) · Win
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&hide_border=true&height=170"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufmullah50&show_icons=true&theme=default"/>
+</p>
