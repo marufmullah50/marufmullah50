@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-D22D28?style=flat&logo=solidworks&logoColor=white"/>
@@ -31,7 +30,10 @@
     Predictive modeling of machining surface roughness to optimize manufacturing parameters (R² 0.85).
 *   **[RAG Research Assistant](https://github.com/marufmullah50/RAGResearchAssistant)** `LangChain` `NLP` `Gradio`  
     Context-aware chatbot for querying and summarizing research documents.
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true&height=140"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=ffffff&color=5bcdec&line=5bcdec&point=000000&hide_border=true&area=true&height=140">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true&height=140">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true&height=140" alt="Activity Graph"/>
+  </picture>
+</div>
