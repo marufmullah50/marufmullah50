@@ -32,7 +32,7 @@
     Context-aware chatbot for querying and summarizing research documents.
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=ffffff&color=5bcdec&line=5bcdec&point=000000&hide_border=true&area=true&height=140">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true&area=true&height=140">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true&height=140">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufmullah50&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true&height=140" alt="Activity Graph"/>
   </picture>
