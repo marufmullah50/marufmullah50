@@ -24,7 +24,7 @@
 ### 🚀 Featured Projects
 *   **[AI Twin System](https://github.com/marufmullah50/AI-Twin-RAG-QLoRA)** `Gemma-2` `RAG` `QLoRA`  
     Personalized AI Twin answering research/background queries via fine-tuning and RAG.
-*   **[YOLO Vision Systems](https://github.com/marufmullah50/YOLO-Vision-Applications)** `YOLOv8` `Tracking` `Segmentation`  
+*   **[YOLO Vision Systems](https://github.com/marufmullah50/YOLO-Vision-Applications)** `YOLOv11` `Tracking` `Segmentation`  
     Real-time signs language tracking, tumor segmentation, and industrial safety detection.
 *   **[Surface Roughness Prediction](https://github.com/marufmullah50/Surface_Roughness_Prediction)** `Scikit-Learn` `Decision Trees` `Regression`  
     Predictive modeling of machining surface roughness to optimize manufacturing parameters (R² 0.85).
